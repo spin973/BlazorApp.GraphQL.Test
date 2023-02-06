@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "schema": [
+        "BlazorApp.GraphQL.Test/schema.graphql"
+      ],
+      "documents": [
+        "BlazorApp.GraphQL.Test/**/*.graphql"
+      ]
+    }
+  ]
+}

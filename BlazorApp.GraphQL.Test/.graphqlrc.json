@@ -1,0 +1,12 @@
+{
+  "schema": "schema.graphql",
+  "documents": "**/*.graphql",
+  "extensions": {
+    "strawberryShake": {
+      "name": "ConferenceClient",
+      "namespace": "BlazorApp.GraphQL.Test",
+      "url": "https://workshop.chillicream.com/graphql/",
+      "dependencyInjection": true
+    }
+  }
+}
